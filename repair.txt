@@ -1,0 +1,7 @@
+If program doesnt works, install:
+
+java: 
+https://www.java.com/pl/download/
+
+java JDK:
+https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
